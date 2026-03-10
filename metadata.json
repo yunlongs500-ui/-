@@ -1,0 +1,5 @@
+{
+  "name": "Natural Week Tracker",
+  "description": "A real-time web applet displaying the current natural week, month, and year.",
+  "requestFramePermissions": []
+}
